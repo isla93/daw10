@@ -4,7 +4,7 @@ package clase;
  * Sacar cartas de la baraja
  * 
  * @author Rune Isla
- *  Impreme las cartas por pantalla
+ *  Impreme las cartas por pantallaa
  *  
  */
 
