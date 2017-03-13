@@ -4,7 +4,7 @@ package clase;
  * Sacar cartas de la baraja
  * 
  * @author Rune Isla
- *  Impreme las cartas por pantallaaaa Rubén tonto
+ *  Impreme las cartas por pantalla
  *  
  */
 
@@ -19,6 +19,7 @@ public class Clase1 {
 	public static void main(String args[]) { 
 		Clase3 miPaqueteDeCartas = new Clase3();
 		miPaqueteDeCartas.run();
+		System.out.println("Este Sout está añadido tras crear la rama 'changeDefaults' por Judit");
 
 	
 		System.out.println("\n");
