@@ -20,7 +20,7 @@ public class Clase1 {
 		Clase3 miPaqueteDeCartas = new Clase3();
 		miPaqueteDeCartas.run();
 		System.out.println("Este Sout está añadido tras crear la rama 'changeDefaults' por Judit");
-Codigo para error
+codigo para error;
 	
 		System.out.println("\n");
 		for (int i = 0; i < 13; i++) {
