@@ -5,7 +5,7 @@ package clase;
  * 
  * @author Rune Isla
  *  Impreme las cartas por pantallas
- *  njm
+ * bhj njm
  */
 
 
